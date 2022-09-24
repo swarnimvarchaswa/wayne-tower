@@ -1,0 +1,114 @@
+body {
+  background-color: #121212;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  margin: 5%;
+}
+.navbar-brand {
+  font-size: 1.2rem;
+}
+.navbar-toggler {
+  border-style: none;
+}
+h1 {
+  font-family: "Secular One", sans-serif;
+  text-align: center;
+  font-size: 4rem;
+  line-height: 1;
+  color: #ffffff;
+  padding: 4rem 0 0 0;
+}
+.tagline {
+  text-align: center;
+  font-size: 1.1rem;
+  padding-top: 25px;
+}
+.tite-image {
+  margin: auto;
+  width: 80%;
+  height: auto;
+  display: block;
+  padding: 3rem 0 2rem 0;
+}
+.gap {
+  width: 100%;
+  opacity: 1;
+  color: #ffffff;
+  margin: 1rem auto;
+}
+#about {
+  margin: 10%;
+}
+h2 {
+    text-align: center;
+  padding: 1rem 0;
+}
+h3 {
+    text-align: center;
+  padding: 1rem 0;
+}
+.key-highlights {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+#key-features {
+  margin: 10%;
+}
+.feature {
+  text-align: center;
+  border-bottom-style: solid;
+}
+.feature-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  margin: 3rem 0 2rem 0;
+}
+#address {
+  margin: 15%;
+}
+.address-img {
+  border-style: solid;
+  margin: auto;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.form-control {
+  border: none;
+  border-bottom-style: solid;
+  border-bottom-color: #ffffff;
+  border-radius: 0;
+  outline: none;
+  background: none;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+#contact{
+    margin: 15%;
+}
+.form-check-input{
+    margin: 12px 0 0 0;
+    font-size: 14px;
+}
+.form-check-label{
+    font-size: 15px;
+    margin: 10px 0;
+}
+.contact-img{
+    height: 25px;
+  }
+  .link{
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 1rem;
+    opacity: .9;
+  }
+  .batman-logo{
+    width: 100%;
+  }
+  #footer{
+    text-align: center;
+    font-size: 1rem;
+  }

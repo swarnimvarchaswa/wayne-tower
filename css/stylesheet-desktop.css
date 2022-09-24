@@ -1,0 +1,136 @@
+body {
+  background-color: #121212;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+.container-fluid {
+  padding: 3% 15% 5% 15%;
+  color: #ffffff;
+}
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.nav-item {
+  padding: 0 15px;
+}
+h1 {
+  font-family: "Secular One", sans-serif;
+  font-size: 8rem;
+  line-height: 1;
+  color: #ffffff;
+  padding: 100px 0 0 0;
+}
+.tagline {
+  font-size: 2.27rem;
+  padding-top: 25px;
+}
+.tite-image {
+  width: 80%;
+  height: auto;
+  margin-left: auto;
+  display: block;
+}
+.navbar-brand {
+  font-size: 2.27rem;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.gap {
+  width: 80%;
+  opacity: 1;
+  color: #ffffff;
+  margin: 1rem auto;
+}
+
+/* about */
+
+.about {
+  padding: 3% 15%;
+}
+h2 {
+  padding: 5% 0;
+  font-size: 3rem;
+}
+p {
+  font-size: 1.5rem;
+  line-height: 2;
+}
+h3 {
+  padding: 5% 0;
+  font-size: 2.27rem;
+}
+.key-features {
+  padding: 3% 15%;
+}
+.feature-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+}
+.feature {
+  text-align: left;
+  margin: 4rem auto;
+}
+.right {
+  float: right;
+  margin-left: 3rem;
+}
+.left {
+  float: left;
+  margin-right: 3rem;
+}
+.feature-heading {
+  padding-top: 0;
+}
+/* address */
+#address {
+  padding: 4% 15%;
+}
+.address-img {
+  border-style: solid;
+  float: right;
+  width: 90%;
+  height: auto;
+}
+.address-line {
+  border-left-style: solid;
+  padding-left: 4%;
+}
+address {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+#footer {
+  padding: 5% 15%;
+  text-align: center;
+}
+#contact {
+  padding: 3% 15%;
+}
+.form-control {
+  border: none;
+  border-bottom-style: solid;
+  border-bottom-color: #ffffff;
+  border-radius: 0;
+  outline: none;
+  background: none;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+.contact-img{
+  height: 50px;
+}
+/* links */
+.link{
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  opacity: .9;
+}
+.batman-logo{
+  width: 100%;
+}
+
+
